@@ -12,6 +12,8 @@ TCP/IP 모델 : 1-네트워크 인터페이스/ 2-네트워크 / 3-전송 / 4-�
 
 4-전송(TCP,UDP) / 5-세션 / 6-표현 / 7-응용(HTTP)
 
+<img width="398" alt="image" src="https://user-images.githubusercontent.com/88201041/159700264-1bc066e5-8bb0-4332-8041-96a4f245e2e3.png">
+
 
 
 ### 두 모델 비교
@@ -48,6 +50,7 @@ Ethernet(헤더) + {IPv4(헤더) + {TCP(헤더) + HTTP(페이로드)}(페이로�
 
 상위 프로토콜에 하위 프로토콜을 붙임! (같은 계층까지는 가능)
 
+<img width="642" alt="image" src="https://user-images.githubusercontent.com/88201041/159701088-226c696e-e8e2-4b9a-bac7-44e3b8789104.png">
 
 
 디캡슐화 : 하위 계층부터 하나씩 확인
