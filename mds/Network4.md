@@ -42,6 +42,8 @@ Classful IP 주소 : 낭비가 심함
 
 A Class : 0XXXXXXX / B Class : 10XXXXXX / C Class : 110XXXXX / D / E
 
+<img width="674" alt="image" src="https://user-images.githubusercontent.com/88201041/159702686-30e2e407-2e2b-4214-905d-78b62a44e92c.png">
+
 
 
 #### Classfulless IP 주소
@@ -50,6 +52,7 @@ A Class : 0XXXXXXX / B Class : 10XXXXXX / C Class : 110XXXXX / D / E
 
 서브넷 마스크 : 네트워크 대역을 나눠주는데 사용, 1로 시작하고 1과1 사이에는 0이 올 수 없음
 
+<img width="527" alt="image" src="https://user-images.githubusercontent.com/88201041/159703361-659101a2-153f-4b23-b4ff-1065b413ac44.png">
 
 
 #### 사설 IP와 공인 IP
