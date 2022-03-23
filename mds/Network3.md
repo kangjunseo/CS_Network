@@ -26,6 +26,7 @@
 
 12개의 16진수로 구성, OUI(회사 ID)와 고유번호로 구성
 
+<img width="508" alt="image" src="https://user-images.githubusercontent.com/88201041/159701592-348457d3-a571-4519-8153-6ce29c9715d2.png">
 
 
 ## 2계층 프로토콜
@@ -40,6 +41,7 @@ Destination Address(6byte, MAC 주소) + Source Address(6byte, MAC 주소) + Eth
 
 - Ethernet Type : DATA(페이로드)에 대한 정보를 미리 알려주는 역할
 
+<img width="691" alt="image" src="https://user-images.githubusercontent.com/88201041/159702069-45814daa-3213-4202-ad5e-60a68a38f3ff.png">
 
 
 ## 실습
