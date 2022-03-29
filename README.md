@@ -21,4 +21,4 @@ CS의 한 중요 분야인 네트워크에 대한 전공 수업을 듣지 못하
 
 #### [ARP 프로토콜](https://github.com/kangjunseo/CS_Network/blob/main/mds/Network5.md)
 
-#### [](https://github.com/kangjunseo/CS_Network/blob/main/mds/Network6.md)
+#### [IP 프로토콜](https://github.com/kangjunseo/CS_Network/blob/main/mds/Network6.md)
