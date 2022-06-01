@@ -19,7 +19,7 @@ HyperText Transfer Protocol
 
 ### HTTP 요청 프로토콜
 요청 프로토콜 구조 : Request line + Headers + 공백(1줄) + Body
-![[Pasted image 20220601191009.png]]
+<img width="998" alt="image" src="https://user-images.githubusercontent.com/88201041/171381047-1a2e88c3-6722-4a63-b101-fc35bffb949d.png">
 
 #### Request line
 요청 타입 + 공백 + URI + 공백 + HTTP 버전
@@ -32,7 +32,8 @@ POST - server로 client가 어떤 정보를 전송할 때
 #### GET vs POST
 - GET 방식은 서버로 정보를 보낼 때, URI 부분에 포함시켜서 보냄
 - POST 방식은 body에 포함시켜서 보냄
-![[Pasted image 20220601191842.png]]
+<img width="789" alt="image" src="https://user-images.githubusercontent.com/88201041/171382526-86175e29-f756-45ca-9676-1c3343537074.png">
+
 추가적 보안을 위해 보통 로그인에는 HTTPS 사용
 
 ### URI
